@@ -1,0 +1,47 @@
+.carousel-caption {
+  color: black;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  align-content: center;
+  justify-content: center;
+}
+
+.carousel-caption div {
+  display: inline-block;
+  height: auto;
+}
+
+.carousel-control-next, .carousel-control-prev {
+  color: black;
+}
+
+main {
+  padding-top: 56px;
+}
+
+main .container {
+  padding-top: 2rem;
+}
+
+.menu h1 {
+  margin-bottom: 2rem;
+}
+.menu h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.menu-section {
+  margin-bottom: 1.5rem;  
+}
+
+#go-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 50;
+}
